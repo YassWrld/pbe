@@ -1,0 +1,17 @@
+{
+  "name": "pbe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YassWrld/pbe.git",
+  "author": "Yass <yacineoubyi@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.2",
+    "helmet": "^4.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.1.4"
+  }
+}
